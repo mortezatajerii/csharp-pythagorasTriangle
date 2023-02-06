@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace pythagorathTriangle
+namespace pythagorasTriangle
 {
     class Program
     {
