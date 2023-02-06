@@ -6,6 +6,7 @@
   <body>
     <h1>Pythagoras Triangle</h1>
     <div>
+      <img src="https://media.giphy.com/media/22bAUMuLEE1mvSUr58/giphy.gif" align="right" width="30%"/>
       <p>
         Find and calculate the length of a triangle side by the Law of cosines.<br />
         We need two sides and the angle between them.<br />
@@ -18,9 +19,6 @@
         If you have any messages for me, rich me by E-mail at
         <a href="mailto: mortezatajerii@gmail.com">mortezatajerii@gmail.com</a>
       </p>
-    </div>
-    <div>
-      <img src="https://media.giphy.com/media/22bAUMuLEE1mvSUr58/giphy.gif" width="256px"/>
     </div>
   </body>
 </html>
