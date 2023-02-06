@@ -9,7 +9,7 @@
       <p>
         Find and calculate the length of a triangle side by the Law of cosines.<br />
         We need two sides and the angle between them.<br />
-        The third side is equal to: C = √( A<sup>2</sup> + B<sup>2</sup> -2ABCosΘ )<br />
+        The third side is equal to: C = √ ( A<sup>2</sup> + B<sup>2</sup> - 2ABCosΘ )<br />
         So we did it.<br /><br />
         Technologies I used in developing this project:<br /><br />
         .NET Core SDK version 3.1.426<br />
